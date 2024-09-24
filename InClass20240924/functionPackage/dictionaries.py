@@ -1,10 +1,6 @@
 # dictionaries.py
 # TREASURE for life
 
-from platform import java_ver
-from traceback import print_tb
-
-
 def demo():
     """
     Demonstrate basic disctionary stuff
