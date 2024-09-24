@@ -1,4 +1,5 @@
 # dictionaries.py
+# TREASURE for life
 
 from platform import java_ver
 from traceback import print_tb
